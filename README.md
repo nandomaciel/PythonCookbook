@@ -25,3 +25,7 @@
 
 ## Capítulo 2 - Strings e textos
 1. Separar strings de acordo com vários delimitadores
+2. Fazer correspondência de texto no início ou fim de uma string
+3. Fazer correspondência de strings utilizando padrões de curinga do shell
+4. Fazer cirrespondência e pesquisa de padrões de texto
+5. Pesquisar e substituir textos
